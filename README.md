@@ -4,8 +4,10 @@ Kotlin Android app for browsing and viewing product data.
 
 ## Preview
 
-![Product List](screenshots/catalog-new.png)
-![Product Detail](screenshots/catalog-productDetails.png)
+<p align="center">
+  <img src="screenshots/catalog-new.png" height="400" />
+  <img src="screenshots/catalog-productDetails.png" height="400" />
+</p>
 
 ## Features
 
